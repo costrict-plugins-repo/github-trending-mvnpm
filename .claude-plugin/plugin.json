@@ -1,0 +1,13 @@
+{
+  "name": "mvnpm",
+  "description": "Use NPM packages as Maven/Gradle dependencies. Searches, converts, and syncs NPM packages to Maven Central via mvnpm.org.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Phillip Kruger",
+    "email": "phillip.kruger@gmail.com"
+  },
+  "homepage": "https://mvnpm.org/ai-agent/",
+  "repository": "https://github.com/mvnpm/mvnpm-claude-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["maven", "npm", "java", "gradle", "dependencies", "mvnpm", "maven-central", "web-components"]
+}

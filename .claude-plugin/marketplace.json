@@ -1,0 +1,17 @@
+{
+  "name": "mvnpm-marketplace",
+  "owner": {
+    "name": "mvnpm",
+    "email": "phillip.kruger@gmail.com"
+  },
+  "metadata": {
+    "description": "mvnpm plugins for using NPM packages as Maven dependencies"
+  },
+  "plugins": [
+    {
+      "name": "mvnpm",
+      "source": "./",
+      "description": "Use NPM packages as Maven/Gradle dependencies via mvnpm.org"
+    }
+  ]
+}
